@@ -46,6 +46,8 @@ Results
 - Winners - 39
 - Placed - 189
 - Point Profit/Loss - +877.55
+- Average BSP - 87.65
+- Average BSP of winning trades - 69.80
 - Return on Investment - +46.58%
 - Average predicted position (BSP) - 10.62
 - Average actual position - 8.89
